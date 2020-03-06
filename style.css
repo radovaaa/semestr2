@@ -1,0 +1,6 @@
+div {border: solid 3 px; color:pink; margin: 5px; background:blue;}
+#b1 {border: solid 3 px; border-color:pink; margin: 5px; background:yellow;}
+#b3 {background:grey; width: 25%; float:left}
+#b4 {background:grey; width: 48%; float:left}
+#b5 {background:grey; width: 13%; float:left}
+#b6 {clear:both;}
