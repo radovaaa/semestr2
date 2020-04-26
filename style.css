@@ -1,12 +1,7 @@
 div {border: solid 3 px; color:pink; margin: 5px; background:yellow;}
 #b1 {border: solid 3 px; border-color:pink; margin: 5px; background:yellow;}
-#b3 {background:grey; width: 25%; float:left}
+#b3 {background:green; width: 25%; float:left}
 #b4 {background:grey; width: 48%; float:left}
 #b5 {background:grey; width: 13%; float:left}
 #b6 {clear:both;}
-#b7 {border: solid 3 px; border-color:pink; margin: 5px; background:yellow;}
-#b8 {background:green; width: 25%; float:left}
-#b9 {background:green; width: 48%; float:left}
-#b10 {background:blue; width: 13%; float:left}
-#b11 {clear:both;}
-#b12 {font-family: helvetica, sans-serif}
+#b7 {font-family: helvetica, sans-serif}
