@@ -2,7 +2,10 @@ div {border: solid 3 px; color:olive; margin: 5px; background:yellow;}
 #b1 {border: solid 3 px; border-color:pink; margin: 5px; background:orange;}
 #b2 {border-color:red; border-style: solid;}
 #b3 {background:green; width: 25%; float:left}
+#b8 {border-color:red; border-style: solid;}
 #b4 {background:light-blue; width: 48%; float:left}
+#b9 {border-color:red; border-style: solid;}
 #b5 {background:violet; width: 13%; float:left}
+#b10 {border-color:red; border-style: solid;}
 #b6 {clear:both;}
 #b7 {font-family: helvetica, sans-serif}
