@@ -3,5 +3,5 @@ div {border:solid 3px #FFC0CB; margin:5px; font-style:oblique; font-weight:70; l
 #b2{background-color:#FF8C00; border:solid 3px #5671a2; letter-spacing: 0.2em;}
 #b3{background-color:#FFEFD5; width:30%; margin: 5px; border:solid 3px #5671a2; float: left; font-variant: small-caps;}
 #b4{background-color:#FFDAB9; float: left; width:60%; border:solid 3px #5671a2; margin: 6px; font-family:sans-serif;}
-#b5{background-color:#FFB6C1;border:solid 3px #5671a2; width:70%; clear: both; margin: 5px; font-style: oblique;}
+#b5{background-color:#FFB6C1;border:solid 3px #5671a2; width:70%; clear: both; margin: 5px; font-style: oblique; text-decoration: line-through;}
 #b6{clear:both;}
