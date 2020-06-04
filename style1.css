@@ -1,6 +1,6 @@
 div {font-weight:70; font-size:14pt; font-family:Times New Roman; text-align:center;}
 #b1{height: 190px; width:100%; margin-bottom: 20px; background-color:grey;}
-#b2{float: left; height: 390px; width:20%; margin-bottom: 20px; background-color:orange;}
+#b2{float: left; height: 390px; width:20%; margin-bottom: 20px; background-color:pink;}
 #b3{float: left; width:60%; height: 390px; margin-bottom: 20px; background-color:blue; background: url('logo.jpg');}
 #b4{float: left; width:20%; height: 390px; margin-bottom: 20px; background-color:orange;}
 #b5{clear: both; height: 190px; width:100%; background-color:green;}
